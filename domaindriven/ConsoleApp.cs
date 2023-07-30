@@ -9,7 +9,7 @@ namespace domaindriven
 {
     public class ConsoleApp
     {
-        // private List<Movie> movies;
+        private List<Movie> movies;
 
         // public ConsoleApp()
         // {

@@ -122,13 +122,13 @@ D:/Visual Studio/Zip files/domaindriven/domaindriven/TestProject/obj/Debug/net6.
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/CoverletSourceRootsMapping
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/domaindriven.deps.json
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/domaindriven.runtimeconfig.json
+/home/coder/project/workspace/TestProject/bin/Debug/net6.0/domaindriven
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/NUnit3.TestAdapter.dll
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/nunit.engine.dll
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/nunit.engine.api.dll
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/nunit.engine.core.dll
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/testcentric.engine.metadata.dll
-/home/coder/project/workspace/TestProject/bin/Debug/net6.0/domaindriven
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/TestProject.deps.json
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/TestProject.runtimeconfig.json
 /home/coder/project/workspace/TestProject/bin/Debug/net6.0/TestProject.dll
